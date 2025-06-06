@@ -43,7 +43,7 @@ If the command fails, FlutterFix will:
 
 1. **Download the script**:
    ```powershell
-   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/your-username/flutterfix/main/flutterfix.ps1" -OutFile "$env:USERPROFILE\flutterfix.ps1"
+   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/SayedZeeshanHyder/flutterfix/main/flutterfix.ps1" -OutFile "$env:USERPROFILE\flutterfix.ps1"
    ```
 
 2. **Create a global alias**:
@@ -62,7 +62,7 @@ If the command fails, FlutterFix will:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/flutterfix.git
+   git clone https://github.com/SayedZeeshanHyder/flutterfix.git
    cd flutterfix
    ```
 
@@ -77,7 +77,7 @@ If the command fails, FlutterFix will:
 
 1. **Fork and clone**:
    ```bash
-   git clone https://github.com/your-username/flutterfix.git
+   git clone https://github.com/SayedZeeshanHyder/flutterfix.git
    cd flutterfix
    ```
 
