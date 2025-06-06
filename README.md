@@ -43,7 +43,7 @@ If the command fails, FlutterFix will:
 
 1. **Download the script**:
    ```powershell
-   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/SayedZeeshanHyder/flutterfix/main/flutterfix.ps1" -OutFile "$env:USERPROFILE\flutterfix.ps1"
+   Invoke-WebRequest -Uri "https://github.com/SayedZeeshanHyder/flutterfix/blob/main/bin/flutterfix.ps1" -OutFile "$env:USERPROFILE\flutterfix.ps1"
    ```
 
 2. **Create a global alias**:
